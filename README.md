@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, html, css, JavaScript**
 
-- 📫 How to reach me **nogueira.mateus20k1@gmail.com**
+- 📫 How to reach me **nogueira.mateus20k1@outlook.com**
 
 - ⚡ Fun fact **like playng games**
 
